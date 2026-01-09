@@ -23,7 +23,7 @@ const data = {
     {
       title: "📍 Localização do Estúdio",
       subtitle: "Veja como chegar facilmente até nós",
-      href: "https://maps.app.goo.gl/aB4NYscUwHxHjbbC9?g_st=ipc",
+      href: "https://maps.app.goo.gl/E91nHAAx9q3DcMc28?g_st=ipc",
       icon: "📍"
     }
   ],
