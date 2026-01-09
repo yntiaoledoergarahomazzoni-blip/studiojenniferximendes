@@ -10,7 +10,7 @@ const data = {
     {
       title: "📅 Agendar Atendimento",
       subtitle: "Escolha seu horário e garanta seu atendimento VIP",
-      href: "https://wa.me/message/WUUG2TI2U3MBH1",
+      href: "https://wa.me/5511981766358",
       icon: "💅🏻"
     },
     
@@ -30,7 +30,7 @@ const data = {
 
   socials: [
     { icon: "assets/icons/instagram.svg", href: "https://instagram.com/studiojenniferximendes" },
-    { icon: "assets/icons/whatsapp.svg", href: "https://wa.me/message/WUUG2TI2U3MBH1" }
+    { icon: "assets/icons/whatsapp.svg", href: "https://wa.me/5511981766358" }
   ]
 };
 
